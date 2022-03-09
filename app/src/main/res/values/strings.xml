@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practical_2</string>
+    <string name="scroll_text">In Android, a ScrollView is a view group that is used to make vertically scrollable views. A scroll view contains a single direct child only. In order to place multiple views in the scroll view, one needs to make a view group(like LinearLayout) as a direct child and then we can define many views inside it. A ScrollView supports Vertical scrolling only, so in order to create a horizontally scrollable view, HorizontalScrollView is used.</string>
+</resources>
