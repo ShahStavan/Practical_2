@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Practical_2/app/src/main/res/layout/activity_context_menu_example.xml" value="0.23981481481481481" />
+        <entry key="..\:/Practical_2/app/src/main/res/layout/activity_database.xml" value="0.1" />
+        <entry key="..\:/Practical_2/app/src/main/res/layout/activity_date_picker.xml" value="0.1" />
         <entry key="..\:/Practical_2/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Practical_2/app/src/main/res/layout/activity_practical10.xml" value="0.25" />
         <entry key="..\:/Practical_2/app/src/main/res/layout/activity_practical10_add.xml" value="0.25" />
@@ -14,6 +17,8 @@
         <entry key="..\:/Practical_2/app/src/main/res/layout/activity_practical7_table_layout.xml" value="0.25" />
         <entry key="..\:/Practical_2/app/src/main/res/layout/activity_practical8.xml" value="0.25" />
         <entry key="..\:/Practical_2/app/src/main/res/layout/activity_practical9.xml" value="0.25" />
+        <entry key="..\:/Practical_2/app/src/main/res/layout/activity_spinner_example.xml" value="0.2323076923076923" />
+        <entry key="..\:/Practical_2/app/src/main/res/menu/mymenu.xml" value="0.23981481481481481" />
       </map>
     </option>
   </component>

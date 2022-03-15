@@ -19,6 +19,7 @@ public class Practical_9 extends AppCompatActivity {
             public void onClick(View view) {
                 Intent i = new Intent(getApplicationContext(),Practical_6.class);
                 startActivity(i);
+
             }
         });
     }
